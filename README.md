@@ -3,6 +3,7 @@ Robomechtrix Workspace For ROS
 
 This repo includes how to build a robot using ROS URDF.
 
+## If you are here after the first video on ROS URDF
 To clone, build and run the ROS package
 ```
 git clone https://github.com/PranaliDesai/robomechtrix_ws.git
