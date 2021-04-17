@@ -1,4 +1,4 @@
-# robotmechtrix_ws
+# robomechtrix_ws
 Robomechtrix Workspace For ROS
 
 This repo includes how to build a robot using ROS URDF.
