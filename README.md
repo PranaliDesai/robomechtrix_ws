@@ -31,3 +31,15 @@ catkin_make
 source devel/setup.bash
 roslaunch trixy world.launch
 ```
+
+
+## If you are here after the third video on ROS URDF
+To clone, build and run the ROS package
+```
+git clone https://github.com/PranaliDesai/robomechtrix_ws.git
+cd robomechtrix_ws
+git checkout URDF-3
+catkin_make
+source devel/setup.bash
+roslaunch trixy world.launch
+```
